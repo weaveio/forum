@@ -17,7 +17,7 @@ If the report is a question or request please describe in detail with use exampl
 
 In either case please provide sample code. Use markdown to make entries more readable. For more information see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 
-====
+# フォーラム
 
 Fluxweave開発に関する質問や問題のためのフォーラムです。チケットを作成するには、「問題と新しい問題」にアクセスするか、[新しい問題](https://github.com/weaveio/forum/issues/new/choose)をクリックしてください。
 
@@ -35,6 +35,4 @@ Fluxweave開発に関する質問や問題のためのフォーラムです。�
 報告書が質問やリクエストの場合は、使用例を交えて詳細に記述してください。
 
 いずれの場合もサンプルコードを提供してください。エントリーをより読みやすくするためにmarkdownを使用してください。詳細については、[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)を参照してください。
-
-www.DeepL.com/Translator（無料版）で翻訳しました。
 
