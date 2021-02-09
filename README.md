@@ -19,20 +19,20 @@ In either case please provide sample code. Use markdown to make entries more rea
 
 # フォーラム
 
-Fluxweave開発に関する質問や問題のためのフォーラムです。チケットを作成するには、「問題と新しい問題」にアクセスするか、[新しい問題](https://github.com/weaveio/forum/issues/new/choose)をクリックしてください。
+Fluxweave開発に関する質問や問題のためのフォーラムです。チケットを作成するには、Issueを開いてNew Issueにアクセスするか、[New Issue](https://github.com/weaveio/forum/issues/new/choose)をクリックしてください。
 
-良い質問には、以下のものがあります。
+回答しやすい質問には、以下の要素があります。
 
-1. タイトル - 説明的であること。
-2. 身体-自己完結型であり、十分に説明すること。
+1. TItle(タイトル) - 説明的であること。
+2. Body(内容)-自己完結型であり、単純明快に説明すること。
 
-報告書に問題がある場合は、提供してください。
-1. 観察された行動
-2. 期待される行動
-3. 観察された行動が間違っている理由
-4. 再現するためのステップ
+チケット内容がバグ等の問題である場合は、以下を提供してください。
+1. 確認された事象
+2. 予期される(本来の)アクション
+3. 確認された事象が間違っている理由
+4. 問題のプロセスを再現するためのステップ
 
-報告書が質問やリクエストの場合は、使用例を交えて詳細に記述してください。
+チケットが質問やリクエストの場合は、使用例を交えて詳細に記述してください。
 
-いずれの場合もサンプルコードを提供してください。エントリーをより読みやすくするためにmarkdownを使用してください。詳細については、[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)を参照してください。
+いずれの場合もサンプルコードを、必ず提供してください。また、入力内容をより読みやすくするためにマークダウンを使用してください。詳細については、[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)を参照してください。
 
